@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import os
 from urllib.parse import urlparse
 
+
 # Function to fetch the URL content
 def fetch_html(url):
     try:
