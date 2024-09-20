@@ -2,7 +2,48 @@ import requests
 from bs4 import BeautifulSoup
 import os
 from urllib.parse import urlparse
+import json
 
+# Example answer key object (replace with your actual amc_answer_keys object)
+def extract_ordered_list(url):
+    # Fetch the HTML content from the given URL
+    response = requests.get(url)
+    
+    # Parse the HTML with BeautifulSoup
+    soup = BeautifulSoup(response.content, 'html.parser')
+
+    # Find the first ordered list (<ol>)
+    ordered_list = soup.find('ol')
+
+    # Check if an ordered list exists
+    if ordered_list:
+        # Extract the list items (<li>) from the ordered list
+        items = ordered_list.find_all('li')
+        return [item.text for item in items]
+    else:
+        return []
+
+def get_amc_answer_keys(start_year=1999, end_year=2024):
+    amc_keys = {}
+    
+    for year in range(start_year, end_year + 1):
+        # Generate the URL
+        url = f'https://artofproblemsolving.com/wiki/index.php/{year}_AMC_8_Answer_Key'
+        print(f"Fetching data for {year}...")
+
+        # Extract the answer key
+        answers = extract_ordered_list(url)
+        
+        # If answers were found, add them to the dictionary
+        if answers:
+            amc_keys[year] = answers
+        else:
+            amc_keys[year] = "No data available"
+    
+    return amc_keys
+
+# Fetch the answer keys from 1999 to 2024
+amc_answer_keys = get_amc_answer_keys()
 
 # Function to fetch the URL content
 def fetch_html(url):
@@ -14,87 +55,83 @@ def fetch_html(url):
         print(f"Error fetching URL: {e}")
         return None
 
-# Function to extract <h2> and following <p> elements
-def extract_elements(html):
+# Function to extract <h2> and all following <p> elements
+def extract_elements(html, year):
     soup = BeautifulSoup(html, 'html.parser')
     h2_elements = soup.find_all('h2')
     
-    extracted_data = []
+    questions = []
     
+    question_number = 1  # Initialize question number
     for h2 in h2_elements:
         # Get the <span> inside the <h2> and extract its id
         span = h2.find('span')
         if not span or not span.get('id'):
             continue  # Skip if no <span> with an id is found
         
-        h2_id = span.get('id')  # Use the id of the <span>        
+        span_id = span.get('id')  # Use the id of the <span>
         
-        print(h2_id)
         p_elements = []
         
         # Find all the following <p> elements after the <h2>
         sibling = h2.find_next_sibling()
         while sibling:
             if sibling.name == 'p':
-                p_elements.append(sibling)
+                p_elements.append(str(sibling).replace('src="//latex', 'src="https://latex'))  # Save p elements as strings
             else: 
                 break
             sibling = sibling.find_next_sibling()
         
         # Only add if there are any <p> elements
         if p_elements:
-            extracted_data.append((h2_id, h2, p_elements))
+            answer_key = amc_answer_keys.get(year, [])[question_number - 1] if year in amc_answer_keys else None
+            question = {
+                "id": span_id,
+                "h2": str(h2),  # Save h2 as string
+                "paragraphs": p_elements,
+                "answer": answer_key  # Add the corresponding answer key
+            }
+            questions.append(question)
+        
+        question_number += 1  # Increment question number
+        if question_number > 25: 
+            break
     
-    return extracted_data
-
-# Function to save each <h2> and <p> elements as an HTML file
-def save_to_html(elements, directory):
-    if not os.path.exists(directory):
-        os.makedirs(directory)
-    
-    for h2_id, h2, p_elements in elements:
-        file_name = f"{h2_id}.html"  # Use the <h2> id as the file name
-        file_path = os.path.join(directory, file_name)
-        
-        # Create HTML content by concatenating h2 and p elements
-        html_content = f"<html><body>\n{str(h2)}\n"
-        for p in p_elements:
-            html_content += f"{str(p)}\n"
-        html_content += "</body></html>"
-        
-        # Perform the string replacement
-        html_content = html_content.replace('src="//latex', 'src="https://latex')
-        
-        # Save the modified HTML content
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(html_content)
-        
-        print(f"Saved: {file_name}")
-
-def get_last_part_of_url(url):
-    path = urlparse(url).path
-    return os.path.basename(path)
-
-# Main script logic
-def main(urls):
-    for url in urls:
-        print(f"Processing URL: {url}")
-        html_content = fetch_html(url)
-        if html_content:
-            directory = get_last_part_of_url(url)  # Extract the last part of the URL for the directory name
-            elements = extract_elements(html_content)
-            save_to_html(elements, directory)
-        else:
-            print(f"Failed to retrieve content from {url}")
+    return questions
 
 # Function to generate URLs for AMC 8 Problems from 1999 to 2024
 def generate_urls(start_year=1999, end_year=2024):
     base_url = "https://artofproblemsolving.com/wiki/index.php/"
-    urls = []
+    urls = {}
     for year in range(start_year, end_year + 1):
         url = f"{base_url}{year}_AMC_8_Problems"
-        urls.append(url)
+        urls[year] = url
     return urls
 
+# Main script logic to process all URLs and save as JSON
+def main():
+    # Generate URLs from 1999 to 2024
+    urls = generate_urls(1999, 2024)
+    
+    # Dictionary to store all years and their questions
+    data = {}
+    
+    # Loop through each year and URL
+    for year, url in urls.items():
+        print(f"Processing {year} AMC 8 Problems from URL: {url}")
+        html_content = fetch_html(url)
+        if html_content:
+            questions = extract_elements(html_content, year)
+            if questions:
+                data[year] = questions  # Store questions by year
+        else:
+            print(f"Failed to retrieve content from {url}")
+    
+    # Save all data to a JSON file
+    output_file = "amc_8_problems_with_answers_1999_2024.json"
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    
+    print(f"Data saved to {output_file}")
 
-main(generate_urls())
+main()
