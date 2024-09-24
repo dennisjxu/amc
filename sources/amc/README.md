@@ -1,14 +1,15 @@
-download all quetions and answers to local and save into a json file "amc_8_problems_with_answers_1999_2024.json"
+# Download all quetions and answers to local and save into a json file "amc_8_problems_with_answers_1999_2024.json"
 getAllAmc8.py
 
-to generate quetions/answers for given year
+# To generate quetions/answers for given year
 python genyearlyquestions.py
 
-to genearte all questions/answers in single file
+# To genearte all questions/answers in single file
 python saveall.py
 
-to generate a random test. modify the to and from year in the script
+# To generate a random test. modify the to and from year in the script
 python createRandomTest.py
+powershell (1..25) | %{python .\createRandomTest.py;Start-Sleep -Seconds 1}
 
-to generate the interested tests (wrong ones)
+# To generate the interested tests (wronged ones)
 python createselectedones.py
