@@ -29,9 +29,10 @@ def create_random_test(data, startyear, endyear, output_dir):
 
     # Get the current timestamp
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    htmlOutputFiles = f"AMC_8_Random_Test_{startyear}_{endyear}_{timestamp}.html"
 
     # Prepare the HTML content for the test
-    test_html_content = "<html><body>\n<h1>AMC 8 Random Test</h1>\n"
+    test_html_content = f"<html><body>\n<h1>AMC 8 Random Test, {htmlOutputFiles}</h1>\n"
     answer_key = []
 
     # Loop through the 25 questions, and pick a random one for each position
@@ -58,7 +59,7 @@ def create_random_test(data, startyear, endyear, output_dir):
     test_html_content += "</body></html>"
 
     # Save the test as a single HTML file with a timestamp in the filename
-    test_file_path = os.path.join(output_dir, f"AMC_8_Random_Test_{startyear}_{endyear}_{timestamp}.html")
+    test_file_path = os.path.join(output_dir, htmlOutputFiles)
     with open(test_file_path, 'w', encoding='utf-8') as f:
         f.write(test_html_content.replace('src="//latex', 'src="https://latex'))
 
