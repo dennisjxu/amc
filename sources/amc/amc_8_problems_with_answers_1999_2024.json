@@ -867,14 +867,6 @@
             "answer": "E"
         },
         {
-            "id": "Juan's_Old_Stamping_Grounds",
-            "h2": "<h2><span id=\"Juan's_Old_Stamping_Grounds\"></span><span class=\"mw-headline\" id=\"Juan.27s_Old_Stamping_Grounds\">Juan's Old Stamping Grounds</span></h2>",
-            "paragraphs": [
-                "<p>Problems 8,9 and 10 use the data found in the accompanying paragraph and table:\n</p>"
-            ],
-            "answer": "D"
-        },
-        {
             "id": "Problem_8",
             "h2": "<h3><span class=\"mw-headline\" id=\"Problem_8\">Problem 8</span></h3>",
             "paragraphs": [
@@ -882,7 +874,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ 9 \\qquad \\text{(B)}\\ 15 \\qquad \\text{(C)}\\ 18 \\qquad \\text{(D)}\\ 24 \\qquad \\text{(E)}\\ 42$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/e/b/2/eb2896731e2f9246c509178d8fd594e0e53b981d.png\" style=\"vertical-align: -4px\" width=\"366\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_8\" title=\"2002 AMC 8 Problems/Problem 8\"> Solution</a>\n</p>"
             ],
-            "answer": "B"
+            "answer": "D"
         },
         {
             "id": "Problem_9",
@@ -892,7 +884,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ \\textdollar 0.40 \\qquad \\text{(B)}\\ \\textdollar 1.06 \\qquad \\text{(C)}\\ \\textdollar 1.80 \\qquad \\text{(D)}\\ \\textdollar 2.38 \\qquad \\text{(E)}\\ \\textdollar 2.64$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/d/8/4/d849284d8c817e5f49a3d33fd3e69936b9da726c.png\" style=\"vertical-align: -4px\" width=\"492\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_9\" title=\"2002 AMC 8 Problems/Problem 9\"> Solution</a>\n</p>"
             ],
-            "answer": "E"
+            "answer": "B"
         },
         {
             "id": "Problem_10",
@@ -902,7 +894,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ 3.5 \\text{ cents} \\qquad \\text{(B)}\\ 4 \\text{ cents} \\qquad \\text{(C)}\\ 4.5 \\text{ cents} \\qquad \\text{(D)}\\ 5 \\text{ cents} \\qquad \\text{(E)}\\ 5.5 \\text{ cents}$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/3/f/b/3fb2a7f5258ac1c113fed6915bdb90e146f0b0f0.png\" style=\"vertical-align: -4px\" width=\"583\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_10\" title=\"2002 AMC 8 Problems/Problem 10\"> Solution</a>\n</p>"
             ],
-            "answer": "C"
+            "answer": "E"
         },
         {
             "id": "Problem_11",
@@ -913,7 +905,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ 11 \\qquad \\text{(B)}\\ 12 \\qquad \\text{(C)}\\ 13 \\qquad \\text{(D)}\\ 14 \\qquad \\text{(E)}\\ 15$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/9/b/e/9bedf76689c0129174a751e465fa79a69b763d24.png\" style=\"vertical-align: -4px\" width=\"375\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_11\" title=\"2002 AMC 8 Problems/Problem 11\"> Solution</a>\n</p>"
             ],
-            "answer": "B"
+            "answer": "C"
         },
         {
             "id": "Problem_12",
@@ -923,7 +915,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ \\frac{1}{12} \\qquad \\text{(B)}\\ \\frac{1}{6} \\qquad \\text{(C)}\\ \\frac{1}{5} \\qquad \\text{(D)}\\ \\frac{1}{3} \\qquad \\text{(E)}\\ \\frac{2}{5}$\" class=\"latex\" height=\"37\" src=\"https://latex.artofproblemsolving.com/9/a/4/9a4aea9c024b4b35c6996632261e7574beb277a8.png\" style=\"vertical-align: -13px\" width=\"358\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_12\" title=\"2002 AMC 8 Problems/Problem 12\"> Solution</a>\n</p>"
             ],
-            "answer": "E"
+            "answer": "B"
         },
         {
             "id": "Problem_13",
@@ -933,7 +925,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ 250 \\qquad \\text{(B)}\\ 500 \\qquad \\text{(C)}\\ 625 \\qquad \\text{(D)}\\ 750 \\qquad \\text{(E)}\\ 1000$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/7/d/3/7d319b8a89e2434b3fbf711047af2f885b996fb3.png\" style=\"vertical-align: -4px\" width=\"430\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_13\" title=\"2002 AMC 8 Problems/Problem 13\"> Solution</a>\n</p>"
             ],
-            "answer": "B"
+            "answer": "E"
         },
         {
             "id": "Problem_14",
@@ -943,7 +935,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ 35\\% \\qquad \\text{(B)}\\ 44\\% \\qquad \\text{(C)}\\ 50\\% \\qquad \\text{(D)}\\ 56\\% \\qquad \\text{(E)}\\ 60\\%$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/9/3/e/93ee817a9b68039ff49419564232ecdc351c76f4.png\" style=\"vertical-align: -4px\" width=\"451\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_14\" title=\"2002 AMC 8 Problems/Problem 14\"> Solution</a>\n</p>"
             ],
-            "answer": "E"
+            "answer": "B"
         },
         {
             "id": "Problem_15",
@@ -966,7 +958,7 @@
                 "<p><img alt=\"$\\text{(D)}\\ X +W = \\frac{1}{2} (Y + Z) \\qquad \\text{(E)}\\ X + Y = Z$\" class=\"latex\" height=\"37\" src=\"https://latex.artofproblemsolving.com/8/c/6/8c62363301f24913b1ece20624722724eb1c8481.png\" style=\"vertical-align: -12px\" width=\"345\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_16\" title=\"2002 AMC 8 Problems/Problem 16\"> Solution</a>\n</p>"
             ],
-            "answer": "C"
+            "answer": "E"
         },
         {
             "id": "Problem_17",
@@ -976,7 +968,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ 5 \\qquad \\text{(B)}\\ 6 \\qquad \\text{(C)}\\ 7 \\qquad \\text{(D)}\\ 8 \\qquad \\text{(E)}\\ 9$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/6/c/5/6c546ed5f60b14548fdd6b75885ffb093a0a17af.png\" style=\"vertical-align: -4px\" width=\"330\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_17\" title=\"2002 AMC 8 Problems/Problem 17\"> Solution</a>\n</p>"
             ],
-            "answer": "E"
+            "answer": "C"
         },
         {
             "id": "Problem_18",
@@ -986,7 +978,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ \\text{1 hr} \\qquad \\text{(B)}\\ \\text{1 hr 10 min} \\qquad \\text{(C)}\\ \\text{1 hr 20 min} \\qquad \\text{(D)}\\ \\text{1 hr 40 min} \\qquad \\text{(E)}\\ \\text{2 hr}$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/e/3/8/e38dd098614bf661c7fb0b4de5ccbd3951dc6898.png\" style=\"vertical-align: -4px\" width=\"599\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_18\" title=\"2002 AMC 8 Problems/Problem 18\"> Solution</a>\n</p>"
             ],
-            "answer": "D"
+            "answer": "E"
         },
         {
             "id": "Problem_19",
@@ -1007,7 +999,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ 1\\frac{1}{2} \\qquad \\text{(B)}\\ 2 \\qquad \\text{(C)}\\ 2\\frac{1}{2} \\qquad \\text{(D)}\\ 3 \\qquad \\text{(E)}\\ 3\\frac{1}{2}$\" class=\"latex\" height=\"37\" src=\"https://latex.artofproblemsolving.com/7/2/d/72d836910a7acc3064cd43889b74153261995f22.png\" style=\"vertical-align: -12px\" width=\"368\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_20\" title=\"2002 AMC 8 Problems/Problem 20\"> Solution</a>\n</p>"
             ],
-            "answer": "E"
+            "answer": "D"
         },
         {
             "id": "Problem_21",
@@ -1017,7 +1009,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ \\frac{5}{16} \\qquad \\text{(B)}\\ \\frac{3}{8} \\qquad \\text{(C)}\\ \\frac{1}{2} \\qquad \\text{(D)}\\ \\frac{5}{8} \\qquad \\text{(E)}\\ \\frac{11}{16}$\" class=\"latex\" height=\"38\" src=\"https://latex.artofproblemsolving.com/9/0/a/90aee533dfbebf115649e2cf72f5df426e8d2757.png\" style=\"vertical-align: -13px\" width=\"367\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_21\" title=\"2002 AMC 8 Problems/Problem 21\"> Solution</a>\n</p>"
             ],
-            "answer": "C"
+            "answer": "E"
         },
         {
             "id": "Problem_22",
@@ -1028,7 +1020,7 @@
                 "<p><img alt=\"$\\text{(A)}\\ 18 \\qquad \\text{(B)}\\ 24 \\qquad \\text{(C)}\\ 26 \\qquad \\text{(D)}\\ 30 \\qquad \\text{(E)}\\ 36$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/0/9/8/0984838443f721e9b433f347d33d271248ff5ad1.png\" style=\"vertical-align: -4px\" width=\"375\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_22\" title=\"2002 AMC 8 Problems/Problem 22\"> Solution</a>\n</p>"
             ],
-            "answer": "B"
+            "answer": "C"
         },
         {
             "id": "Problem_23",
@@ -1048,6 +1040,16 @@
                 "<p>Miki has a dozen oranges of the same size and a dozen pears of the same size. Miki uses her juicer to extract 8 ounces of pear juice from 3 pears and 8 ounces of orange juice from 2 oranges. She makes a pear-orange juice blend from an equal number of pears and oranges. What percent of the blend is pear juice?\n</p>",
                 "<p><img alt=\"$\\text{(A)}\\ 30 \\qquad \\text{(B)}\\ 40 \\qquad \\text{(C)}\\ 50 \\qquad \\text{(D)}\\ 60 \\qquad \\text{(E)}\\ 70$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/8/a/7/8a7adfdb20bfc784f0fd6c308e0b05f738e43e02.png\" style=\"vertical-align: -4px\" width=\"375\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_24\" title=\"2002 AMC 8 Problems/Problem 24\"> Solution</a>\n</p>"
+            ],
+            "answer": "B"
+        },
+        {
+            "id": "Problem_25",
+            "h2": "<h2><span class=\"mw-headline\" id=\"Problem_25\">Problem 25</span></h2>",
+            "paragraphs": [
+                "<p>Loki, Moe, Nick and Ott are good friends. Ott had no money, but the others did. Moe gave Ott one-fifth of his money, Loki gave Ott one-fourth of his money and Nick gave Ott one-third of his money. Each gave Ott the same amount of money. What fractional part of the group's money does Ott now have?\n</p>",
+                "<p><img alt=\"$\\text{(A)}\\ \\frac{1}{10} \\qquad \\text{(B)}\\ \\frac{1}{4} \\qquad \\text{(C)}\\ \\frac{1}{3} \\qquad \\text{(D)}\\ \\frac{2}{5} \\qquad \\text{(E)}\\ \\frac{1}{2}$\" class=\"latex\" height=\"37\" src=\"https://latex.artofproblemsolving.com/0/7/e/07e9844a1be172a846e7a17907c032bc936a83ee.png\" style=\"vertical-align: -13px\" width=\"358\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_25\" title=\"2002 AMC 8 Problems/Problem 25\"> Solution</a>\n</p>"
             ],
             "answer": "B"
         }

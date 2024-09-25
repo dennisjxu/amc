@@ -75,6 +75,9 @@ def extract_elements(html, year):
             continue  # Skip if no <span> with an id is found
         
         span_id = span.get('id')  # Use the id of the <span>
+        if "Problem_".lower() not in span_id.lower(): 
+            print(f"unrecognized problem {span_id}")
+            continue
         
         p_elements = []
         
@@ -102,6 +105,9 @@ def extract_elements(html, year):
         if question_number > 25: 
             break
     
+    if question_number != 26: 
+        print(f"Error found during extract. found {question_number} problems")
+
     return questions
 
 # Function to generate URLs for AMC 8 Problems from 1999 to 2024
