@@ -58,12 +58,17 @@ def fetch_html(url):
 # Function to extract <h2> and all following <p> elements
 def extract_elements(html, year):
     soup = BeautifulSoup(html, 'html.parser')
-    h2_elements = soup.find_all('h2')
+    
+    # Find the main content div with class "mw-parser-output"
+    main_content = soup.find("div", class_="mw-parser-output")
+    if not main_content:
+        print(f"Could not find content in {url}")
+        return []
     
     questions = []
     
     question_number = 1  # Initialize question number
-    for h2 in h2_elements:
+    for h2 in main_content.find_all(['h2', 'h3']):
         # Get the <span> inside the <h2> and extract its id
         span = h2.find('span')
         if not span or not span.get('id'):
