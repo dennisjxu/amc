@@ -676,7 +676,10 @@
             "id": "Problem_14",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_14\">Problem 14</span></h2>",
             "paragraphs": [
-                "<p>Tyler has entered a buffet line in which he chooses one kind of meat, two different vegetables and one dessert. If the order of food items is not important, how many different meals might he choose?\n</p>"
+                "<p>Tyler has entered a buffet line in which he chooses one kind of meat, two different vegetables and one dessert. If the order of food items is not important, how many different meals might he choose?\n</p>",
+                "<ul><li>Meat: beef, chicken, pork</li>\n<li>Vegetables: baked beans, corn, potatoes, tomatoes</li>\n<li>Dessert: brownies, chocolate cake, chocolate pudding, ice cream</li></ul>",
+                "<p><img alt=\"$\\text{(A)}\\ 4 \\qquad \\text{(B)}\\ 24 \\qquad \\text{(C)}\\ 72 \\qquad \\text{(D)}\\ 80 \\qquad \\text{(E)}\\ 144$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/8/3/a/83ae6bad29fa87318df65cae92d64a79ebb9c5e6.png\" style=\"vertical-align: -4px\" width=\"376\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2001_AMC_8_Problems/Problem_14\" title=\"2001 AMC 8 Problems/Problem 14\"> Solution</a>\n</p>"
             ],
             "answer": "C"
         },
@@ -851,7 +854,10 @@
             "id": "Problem_6",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_6\">Problem 6</span></h2>",
             "paragraphs": [
-                "<p>A birdbath is designed to overflow so that it will be self-cleaning. Water flows in at the rate of 20 milliliters per minute and drains at the rate of 18 milliliters per minute. One of these graphs shows the volume of water in the birdbath during the filling time and continuing into the overflow time. Which one is it?\n</p>"
+                "<p>A birdbath is designed to overflow so that it will be self-cleaning. Water flows in at the rate of 20 milliliters per minute and drains at the rate of 18 milliliters per minute. One of these graphs shows the volume of water in the birdbath during the filling time and continuing into the overflow time. Which one is it?\n</p>",
+                "<div class=\"center\"><div class=\"floatnone\"><a class=\"image\" href=\"/wiki/index.php/File:2002amc8prob6graph.png\"><img alt=\"2002amc8prob6graph.png\" height=\"182\" src=\"https://wiki-images.artofproblemsolving.com//f/fe/2002amc8prob6graph.png\" width=\"683\"/></a></div></div>",
+                "<p><img alt=\"$\\text{(A)}\\ \\text{A} \\qquad \\text{(B)}\\ \\text{B} \\qquad \\text{(C)}\\ \\text{C} \\qquad \\text{(D)}\\ \\text{D} \\qquad \\text{(E)}\\ \\text{E}$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/1/b/6/1b61cca9b6d04a4cf0b14f32b53e947d17cff0db.png\" style=\"vertical-align: -4px\" width=\"345\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2002_AMC_8_Problems/Problem_6\" title=\"2002 AMC 8 Problems/Problem 6\"> Solution</a>\n</p>"
             ],
             "answer": "A"
         },
@@ -1294,7 +1300,11 @@
             "id": "Problem_23",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_23\">Problem 23</span></h2>",
             "paragraphs": [
-                "<p>In the pattern below, the cat moves clockwise through the four squares  and the mouse moves counterclockwise through the eight exterior segments of the four squares.\n</p>"
+                "<p>In the pattern below, the cat moves clockwise through the four squares  and the mouse moves counterclockwise through the eight exterior segments of the four squares.\n</p>",
+                "<center>\n<p><a class=\"image\" href=\"/wiki/index.php/File:2003amc8prob23a.png\"><img alt=\"2003amc8prob23a.png\" height=\"177\" src=\"https://wiki-images.artofproblemsolving.com//thumb/1/1a/2003amc8prob23a.png/800px-2003amc8prob23a.png\" srcset=\"https://wiki-images.artofproblemsolving.com//thumb/1/1a/2003amc8prob23a.png/1200px-2003amc8prob23a.png 1.5x, https://wiki-images.artofproblemsolving.com//1/1a/2003amc8prob23a.png 2x\" width=\"800\"/></a>\n</p>\n</center>",
+                "<p>If the pattern is continued, where would the cat and mouse be after the 247th move?\n</p>",
+                "<center>\n<p><a class=\"image\" href=\"/wiki/index.php/File:2003amc8prob23b.png\"><img alt=\"2003amc8prob23b.png\" height=\"175\" src=\"https://wiki-images.artofproblemsolving.com//thumb/e/ed/2003amc8prob23b.png/800px-2003amc8prob23b.png\" srcset=\"https://wiki-images.artofproblemsolving.com//thumb/e/ed/2003amc8prob23b.png/1200px-2003amc8prob23b.png 1.5x, https://wiki-images.artofproblemsolving.com//e/ed/2003amc8prob23b.png 2x\" width=\"800\"/></a>\n</p>\n</center>",
+                "<p><a href=\"/wiki/index.php/2003_AMC_8_Problems/Problem_23\" title=\"2003 AMC 8 Problems/Problem 23\">Solution</a>\n</p>"
             ],
             "answer": "A"
         },
@@ -1303,7 +1313,9 @@
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_24\">Problem 24</span></h2>",
             "paragraphs": [
                 "<p>A ship travels from point <img alt=\"$A$\" class=\"latex\" height=\"13\" src=\"https://latex.artofproblemsolving.com/0/1/9/019e9892786e493964e145e7c5cf7b700314e53b.png\" width=\"13\"/> to point <img alt=\"$B$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/f/f/5/ff5fb3d775862e2123b007eb4373ff6cc1a34d4e.png\" width=\"14\"/> along a semicircular path, centered at Island <img alt=\"$X$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/6/a/4/6a47ca0fe7cb276abc022af6ac88ddae1a9d6894.png\" width=\"15\"/>. Then it travels along a straight path from <img alt=\"$B$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/f/f/5/ff5fb3d775862e2123b007eb4373ff6cc1a34d4e.png\" width=\"14\"/> to <img alt=\"$C$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/3/3/c3355896da590fc491a10150a50416687626d7cc.png\" width=\"14\"/>. Which of these graphs best shows the ship's distance from Island <img alt=\"$X$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/6/a/4/6a47ca0fe7cb276abc022af6ac88ddae1a9d6894.png\" width=\"15\"/> as it moves along its course?\n</p>",
-                "<p><img alt='[asy]size(150); pair X=origin, A=(-5,0), B=(5,0), C=(0,5); draw(Arc(X, 5, 180, 360)^^B--C); dot(X); label(\"$X$\", X, NE); label(\"$C$\", C, N); label(\"$B$\", B, E); label(\"$A$\", A, W); [/asy]' class=\"latexcenter\" height=\"228\" src=\"https://latex.artofproblemsolving.com/9/1/9/91933f8be27c24174af480d964c31782da9f3bb4.png\" width=\"252\"/>\n</p>"
+                "<p><img alt='[asy]size(150); pair X=origin, A=(-5,0), B=(5,0), C=(0,5); draw(Arc(X, 5, 180, 360)^^B--C); dot(X); label(\"$X$\", X, NE); label(\"$C$\", C, N); label(\"$B$\", B, E); label(\"$A$\", A, W); [/asy]' class=\"latexcenter\" height=\"228\" src=\"https://latex.artofproblemsolving.com/9/1/9/91933f8be27c24174af480d964c31782da9f3bb4.png\" width=\"252\"/>\n</p>",
+                "<center>\n<p><a class=\"image\" href=\"/wiki/index.php/File:2003amc8prob24ans.png\"><img alt=\"2003amc8prob24ans.png\" height=\"205\" src=\"https://wiki-images.artofproblemsolving.com//d/d9/2003amc8prob24ans.png\" width=\"800\"/></a>\n</p>\n</center>",
+                "<p><a href=\"/wiki/index.php/2003_AMC_8_Problems/Problem_24\" title=\"2003 AMC 8 Problems/Problem 24\">Solution</a>\n</p>"
             ],
             "answer": "B"
         },
@@ -1424,7 +1436,11 @@
             "id": "Problem_11",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_11\">Problem 11</span></h2>",
             "paragraphs": [
-                "<p>The numbers <img alt=\"$-2, 4, 6, 9$\" class=\"latex\" height=\"16\" src=\"https://latex.artofproblemsolving.com/1/6/9/1697819f92b5937788c126eb111a99f6102cbe08.png\" style=\"vertical-align: -3px\" width=\"74\"/> and <img alt=\"$12$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/e/d/f/edf074831eb5bc9e61d6d6e09f525a86e3068f6a.png\" style=\"vertical-align: 0px\" width=\"17\"/> are rearranged according to these rules:\n</p>"
+                "<p>The numbers <img alt=\"$-2, 4, 6, 9$\" class=\"latex\" height=\"16\" src=\"https://latex.artofproblemsolving.com/1/6/9/1697819f92b5937788c126eb111a99f6102cbe08.png\" style=\"vertical-align: -3px\" width=\"74\"/> and <img alt=\"$12$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/e/d/f/edf074831eb5bc9e61d6d6e09f525a86e3068f6a.png\" style=\"vertical-align: 0px\" width=\"17\"/> are rearranged according to these rules:\n</p>",
+                "<pre><img alt=\"$\\text {The largest isn’t first, but it is in one of the first three places.}$\" class=\"latex\" height=\"15\" src=\"https://latex.artofproblemsolving.com/c/a/5/ca5229bf4c22d08805d0fe7464f638d659c56953.png\" style=\"vertical-align: -3px\" width=\"448\"/>                                                          \n<img alt=\"$\\text {The smallest isn’t last, but it is in one of the last three places.}$\" class=\"latex\" height=\"15\" src=\"https://latex.artofproblemsolving.com/5/7/4/5749763a7b05d1c1370a2e0f4c1b6c5122784486.png\" style=\"vertical-align: -3px\" width=\"453\"/>          \n<img alt=\"$\\text {The median isn’t first or last.}$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/0/3/b/03b4136101c0254370562d8eb234fb6a9e193a86.png\" style=\"vertical-align: 0px\" width=\"213\"/>                     \n</pre>",
+                "<p>What is the average of the first and last numbers?\n</p>",
+                "<p><img alt=\"$\\textbf{(A)}\\ 3.5 \\qquad \\textbf{(B)}\\ 5 \\qquad \\textbf{(C)}\\ 6.5 \\qquad \\textbf{(D)}\\ 7.5 \\qquad \\textbf{(E)}\\ 8$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/0/a/2/0a23fc06b89b7cc5977ec414d39f5b3d40209c49.png\" style=\"vertical-align: -4px\" width=\"391\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2004_AMC_8_Problems/Problem_11\" title=\"2004 AMC 8 Problems/Problem 11\">Solution</a>\n</p>"
             ],
             "answer": "C"
         },
@@ -1442,7 +1458,11 @@
             "id": "Problem_13",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_13\">Problem 13</span></h2>",
             "paragraphs": [
-                "<p>Amy, Bill and Celine are friends with different ages. Exactly one of the following statements is true.\n</p>"
+                "<p>Amy, Bill and Celine are friends with different ages. Exactly one of the following statements is true.\n</p>",
+                "<pre>I. Bill is the oldest.\nII. Amy is not the oldest.\nIII. Celine is not the youngest.\n</pre>",
+                "<p>Rank the friends from the youngest to the oldest.\n</p>",
+                "<p><img alt=\"$\\textbf{(A)}\\ \\text{Bill, Amy, Celine}\\qquad \\textbf{(B)}\\ \\text{Amy, Bill, Celine}\\qquad \\textbf{(C)}\\ \\text{Celine, Amy, Bill}\\\\ \\textbf{(D)}\\ \\text{Celine, Bill, Amy} \\qquad \\textbf{(E)}\\ \\text{Amy, Celine, Bill}$\" class=\"latex\" height=\"37\" src=\"https://latex.artofproblemsolving.com/4/b/a/4baa0b7a52aeff9d5a423e02e1924d1b02363961.png\" style=\"vertical-align: -4px\" width=\"542\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2004_AMC_8_Problems/Problem_13\" title=\"2004 AMC 8 Problems/Problem 13\">Solution</a>\n</p>"
             ],
             "answer": "E"
         },
@@ -1460,7 +1480,10 @@
             "id": "Problem_15",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_15\">Problem 15</span></h2>",
             "paragraphs": [
-                "<p>Thirteen black and six white hexagonal tiles were used to create the figure below. If a new figure is created by attaching a border of white tiles with the same size and shape as the others, what will be the difference between the total number of white tiles and the total number of black tiles in the new figure?\n</p>"
+                "<p>Thirteen black and six white hexagonal tiles were used to create the figure below. If a new figure is created by attaching a border of white tiles with the same size and shape as the others, what will be the difference between the total number of white tiles and the total number of black tiles in the new figure?\n</p>",
+                "<center>\n<p><a class=\"image\" href=\"/wiki/index.php/File:AMC8200415.gif\"><img alt=\"AMC8200415.gif\" height=\"151\" src=\"https://wiki-images.artofproblemsolving.com//c/cc/AMC8200415.gif\" width=\"163\"/></a>\n</p>\n</center>",
+                "<p><img alt=\"$\\textbf{(A)}\\ 5\\qquad \\textbf{(B)}\\ 7\\qquad \\textbf{(C)}\\ 11\\qquad \\textbf{(D)}\\ 12 \\qquad \\textbf{(E)}\\ 18$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/b/e/7/be7b919034fd6d81436a6150cc56e85360d73413.png\" style=\"vertical-align: -4px\" width=\"376\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2004_AMC_8_Problems/Problem_15\" title=\"2004 AMC 8 Problems/Problem 15\">Solution</a>\n</p>"
             ],
             "answer": "C"
         },
@@ -2114,7 +2137,10 @@
             "id": "Problem_2",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_2\">Problem 2</span></h2>",
             "paragraphs": [
-                "<p><img alt=\"$650$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/1/2/0/12060badf8be82c1d7ae05f240e571d68f73ddfa.png\" width=\"26\"/> students were surveyed about their pasta preferences. The choices were lasagna, manicotti, ravioli and spaghetti. The results of the survey are displayed in the bar graph. What is the ratio of the number of students who preferred spaghetti to the number of students who preferred manicotti?\n</p>"
+                "<p><img alt=\"$650$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/1/2/0/12060badf8be82c1d7ae05f240e571d68f73ddfa.png\" width=\"26\"/> students were surveyed about their pasta preferences. The choices were lasagna, manicotti, ravioli and spaghetti. The results of the survey are displayed in the bar graph. What is the ratio of the number of students who preferred spaghetti to the number of students who preferred manicotti?\n</p>",
+                "<center><a class=\"image\" href=\"/wiki/index.php/File:AMC8_2007_2.png\"><img alt=\"AMC8 2007 2.png\" height=\"318\" src=\"https://wiki-images.artofproblemsolving.com//a/a3/AMC8_2007_2.png\" width=\"392\"/></a></center>",
+                "<p><img alt=\"$\\textbf{(A)} \\frac{2}{5} \\qquad \\textbf{(B)} \\frac{1}{2} \\qquad \\textbf{(C)} \\frac{5}{4} \\qquad \\textbf{(D)} \\frac{5}{3} \\qquad \\textbf{(E)} \\frac{5}{2}$\" class=\"latex\" height=\"38\" src=\"https://latex.artofproblemsolving.com/6/f/9/6f9a686163677889014fec5e48410b94c47ec514.png\" style=\"vertical-align: -13px\" width=\"343\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2007_AMC_8_Problems/Problem_2\" title=\"2007 AMC 8 Problems/Problem 2\">Solution</a>\n</p>"
             ],
             "answer": "E"
         },
@@ -2182,7 +2208,10 @@
             "id": "Problem_9",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_9\">Problem 9</span></h2>",
             "paragraphs": [
-                "<p>To complete the grid below, each of the digits 1 through 4 must occur once\nin each row and once in each column. What number will occupy the lower\nright-hand square?\n</p>"
+                "<p>To complete the grid below, each of the digits 1 through 4 must occur once\nin each row and once in each column. What number will occupy the lower\nright-hand square?\n</p>",
+                "<center><a class=\"image\" href=\"/wiki/index.php/File:AMC8_2007_9.png\"><img alt=\"AMC8 2007 9.png\" height=\"255\" src=\"https://wiki-images.artofproblemsolving.com//e/e5/AMC8_2007_9.png\" width=\"269\"/></a></center>",
+                "<p><img alt=\"$\\textbf{(A)}\\ 1 \\qquad \\textbf{(B)}\\ 2 \\qquad \\textbf{(C)}\\ 3 \\qquad \\textbf{(D)}\\ 4 \\qquad \\textbf{(E)}$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/1/7/a/17a61a7f4c6dbd0e3f2609785fc96f9a88e77aec.png\" style=\"vertical-align: -5px\" width=\"336\"/> cannot be determined\n</p>",
+                "<p><a href=\"/wiki/index.php/2007_AMC_8_Problems/Problem_9\" title=\"2007 AMC 8 Problems/Problem 9\">Solution</a>\n</p>"
             ],
             "answer": "B"
         },
@@ -2200,7 +2229,10 @@
             "id": "Problem_11",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_11\">Problem 11</span></h2>",
             "paragraphs": [
-                "<p>Tiles <img alt=\"$I, II, III$\" class=\"latex\" height=\"16\" src=\"https://latex.artofproblemsolving.com/0/9/e/09e8e8646c9d6b54459ef7914ce0191d8a9e8aaf.png\" style=\"vertical-align: -3px\" width=\"73\"/> and <img alt=\"$IV$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/7/9/77937bd511ef606638c7ac4dc32e42f09545d8e1.png\" width=\"23\"/> are translated so one tile coincides with each of the rectangles <img alt=\"$A, B, C$\" class=\"latex\" height=\"16\" src=\"https://latex.artofproblemsolving.com/2/9/9/299ddf7c0f03ea46bf09f81f93adeea0756aa15c.png\" style=\"vertical-align: -3px\" width=\"58\"/> and <img alt=\"$D$\" class=\"latex\" height=\"14\" src=\"https://latex.artofproblemsolving.com/9/f/f/9ffb448918db29f2a72f8f87f421b3b3cad18f95.png\" style=\"vertical-align: -1px\" width=\"17\"/>. In the final arrangement, the two numbers on any side common to two adjacent tiles must be the same. Which of the tiles is translated to Rectangle <img alt=\"$C$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/3/3/c3355896da590fc491a10150a50416687626d7cc.png\" width=\"14\"/>?\n</p>"
+                "<p>Tiles <img alt=\"$I, II, III$\" class=\"latex\" height=\"16\" src=\"https://latex.artofproblemsolving.com/0/9/e/09e8e8646c9d6b54459ef7914ce0191d8a9e8aaf.png\" style=\"vertical-align: -3px\" width=\"73\"/> and <img alt=\"$IV$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/7/9/77937bd511ef606638c7ac4dc32e42f09545d8e1.png\" width=\"23\"/> are translated so one tile coincides with each of the rectangles <img alt=\"$A, B, C$\" class=\"latex\" height=\"16\" src=\"https://latex.artofproblemsolving.com/2/9/9/299ddf7c0f03ea46bf09f81f93adeea0756aa15c.png\" style=\"vertical-align: -3px\" width=\"58\"/> and <img alt=\"$D$\" class=\"latex\" height=\"14\" src=\"https://latex.artofproblemsolving.com/9/f/f/9ffb448918db29f2a72f8f87f421b3b3cad18f95.png\" style=\"vertical-align: -1px\" width=\"17\"/>. In the final arrangement, the two numbers on any side common to two adjacent tiles must be the same. Which of the tiles is translated to Rectangle <img alt=\"$C$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/3/3/c3355896da590fc491a10150a50416687626d7cc.png\" width=\"14\"/>?\n</p>",
+                "<center><a class=\"image\" href=\"/wiki/index.php/File:AMC8_2007_11.png\"><img alt=\"AMC8 2007 11.png\" height=\"258\" src=\"https://wiki-images.artofproblemsolving.com//5/5c/AMC8_2007_11.png\" width=\"491\"/></a></center>",
+                "<p><img alt=\"$\\textbf{(A)}\\ I \\qquad \\textbf{(B)}\\ II \\qquad \\textbf{(C)}\\ III \\qquad \\textbf{(D)}\\ IV \\qquad \\textbf{(E)}$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/c/e/3/ce3ee539b593ae2b51dce8f22ab3c200cbfcfbc7.png\" style=\"vertical-align: -5px\" width=\"381\"/> cannot be determined\n</p>",
+                "<p><a href=\"/wiki/index.php/2007_AMC_8_Problems/Problem_11\" title=\"2007 AMC 8 Problems/Problem 11\">Solution</a>\n</p>"
             ],
             "answer": "D"
         },
@@ -2208,7 +2240,10 @@
             "id": "Problem_12",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_12\">Problem 12</span></h2>",
             "paragraphs": [
-                "<p>A unit hexagram is composed of a regular hexagon of side length <img alt=\"$1$\" class=\"latex\" height=\"14\" src=\"https://latex.artofproblemsolving.com/d/c/e/dce34f4dfb2406144304ad0d6106c5382ddd1446.png\" style=\"vertical-align: -1px\" width=\"11\"/> and its <img alt=\"$6$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/6/0/1/601a7806cbfad68196c43a4665871f8c3186802e.png\" width=\"8\"/>\nequilateral triangular extensions, as shown in the diagram. What is the ratio of\nthe area of the extensions to the area of the original hexagon?\n</p>"
+                "<p>A unit hexagram is composed of a regular hexagon of side length <img alt=\"$1$\" class=\"latex\" height=\"14\" src=\"https://latex.artofproblemsolving.com/d/c/e/dce34f4dfb2406144304ad0d6106c5382ddd1446.png\" style=\"vertical-align: -1px\" width=\"11\"/> and its <img alt=\"$6$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/6/0/1/601a7806cbfad68196c43a4665871f8c3186802e.png\" width=\"8\"/>\nequilateral triangular extensions, as shown in the diagram. What is the ratio of\nthe area of the extensions to the area of the original hexagon?\n</p>",
+                "<center><a class=\"image\" href=\"/wiki/index.php/File:AMC8_2007_12.png\"><img alt=\"AMC8 2007 12.png\" height=\"190\" src=\"https://wiki-images.artofproblemsolving.com//7/7a/AMC8_2007_12.png\" width=\"178\"/></a></center>",
+                "<p><img alt=\"$\\textbf{(A)}\\ 1:1 \\qquad \\textbf{(B)}\\ 6:5  \\qquad \\textbf{(C)}\\ 3:2 \\qquad \\textbf{(D)}\\ 2:1 \\qquad \\textbf{(E)}\\ 3:1$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/e/5/3/e53568deefee43e9ec23254959bdb725df796fe6.png\" style=\"vertical-align: -5px\" width=\"472\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2007_AMC_8_Problems/Problem_12\" title=\"2007 AMC 8 Problems/Problem 12\">Solution</a>\n</p>"
             ],
             "answer": "A"
         },
@@ -2216,7 +2251,10 @@
             "id": "Problem_13",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_13\">Problem 13</span></h2>",
             "paragraphs": [
-                "<p>Sets <img alt=\"$A$\" class=\"latex\" height=\"13\" src=\"https://latex.artofproblemsolving.com/0/1/9/019e9892786e493964e145e7c5cf7b700314e53b.png\" width=\"13\"/> and <img alt=\"$B$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/f/f/5/ff5fb3d775862e2123b007eb4373ff6cc1a34d4e.png\" width=\"14\"/>, shown in the Venn diagram, have the same number of elements.\nTheir union has <img alt=\"$2007$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/b/0/d/b0db9f93bcba529c93ae151a1ac5c740eec7cca3.png\" width=\"36\"/> elements and their intersection has <img alt=\"$1001$\" class=\"latex\" height=\"13\" src=\"https://latex.artofproblemsolving.com/8/8/8/888c508062c09735bab7ff0e11e7dc80cc7580db.png\" style=\"vertical-align: 0px\" width=\"35\"/> elements. Find\nthe number of elements in <img alt=\"$A$\" class=\"latex\" height=\"13\" src=\"https://latex.artofproblemsolving.com/0/1/9/019e9892786e493964e145e7c5cf7b700314e53b.png\" width=\"13\"/>.\n</p>"
+                "<p>Sets <img alt=\"$A$\" class=\"latex\" height=\"13\" src=\"https://latex.artofproblemsolving.com/0/1/9/019e9892786e493964e145e7c5cf7b700314e53b.png\" width=\"13\"/> and <img alt=\"$B$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/f/f/5/ff5fb3d775862e2123b007eb4373ff6cc1a34d4e.png\" width=\"14\"/>, shown in the Venn diagram, have the same number of elements.\nTheir union has <img alt=\"$2007$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/b/0/d/b0db9f93bcba529c93ae151a1ac5c740eec7cca3.png\" width=\"36\"/> elements and their intersection has <img alt=\"$1001$\" class=\"latex\" height=\"13\" src=\"https://latex.artofproblemsolving.com/8/8/8/888c508062c09735bab7ff0e11e7dc80cc7580db.png\" style=\"vertical-align: 0px\" width=\"35\"/> elements. Find\nthe number of elements in <img alt=\"$A$\" class=\"latex\" height=\"13\" src=\"https://latex.artofproblemsolving.com/0/1/9/019e9892786e493964e145e7c5cf7b700314e53b.png\" width=\"13\"/>.\n</p>",
+                "<center><a class=\"image\" href=\"/wiki/index.php/File:AMC8_2007_13.png\"><img alt=\"AMC8 2007 13.png\" height=\"248\" src=\"https://wiki-images.artofproblemsolving.com//0/0f/AMC8_2007_13.png\" width=\"293\"/></a></center>",
+                "<p><img alt=\"$\\textbf{(A)}\\ 503 \\qquad \\textbf{(B)}\\ 1006 \\qquad \\textbf{(C)}\\ 1504 \\qquad \\textbf{(D)}\\ 1507 \\qquad \\textbf{(E)}\\ 1510$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/0/f/1/0f147ca962a654b63346e2d9b51b385c39cb8697.png\" style=\"vertical-align: -5px\" width=\"478\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2007_AMC_8_Problems/Problem_13\" title=\"2007 AMC 8 Problems/Problem 13\">Solution</a>\n</p>"
             ],
             "answer": "C"
         },
@@ -2244,7 +2282,9 @@
             "id": "Problem_16",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_16\">Problem 16</span></h2>",
             "paragraphs": [
-                "<p>Amanda draws five circles with radii <img alt=\"$1, 2, 3, 4$\" class=\"latex\" height=\"16\" src=\"https://latex.artofproblemsolving.com/3/e/e/3ee053d9a8e7ad423615a57686481ea4bcf4cc28.png\" style=\"vertical-align: -3px\" width=\"60\"/> and <img alt=\"$5$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/9/0/79069377f91364c2f87a64e5f9f562a091c8a6c1.png\" width=\"8\"/>. Then for each circle she plots the point <img alt=\"$(C,A)$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/1/e/9/1e960acdcdd31f194b058e2abb368d5f9f76d47a.png\" style=\"vertical-align: -4px\" width=\"47\"/>,\nwhere <img alt=\"$C$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/3/3/c3355896da590fc491a10150a50416687626d7cc.png\" width=\"14\"/> is its circumference and <img alt=\"$A$\" class=\"latex\" height=\"13\" src=\"https://latex.artofproblemsolving.com/0/1/9/019e9892786e493964e145e7c5cf7b700314e53b.png\" width=\"13\"/> is its area. Which of the\nfollowing could be her graph?\n</p>"
+                "<p>Amanda draws five circles with radii <img alt=\"$1, 2, 3, 4$\" class=\"latex\" height=\"16\" src=\"https://latex.artofproblemsolving.com/3/e/e/3ee053d9a8e7ad423615a57686481ea4bcf4cc28.png\" style=\"vertical-align: -3px\" width=\"60\"/> and <img alt=\"$5$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/9/0/79069377f91364c2f87a64e5f9f562a091c8a6c1.png\" width=\"8\"/>. Then for each circle she plots the point <img alt=\"$(C,A)$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/1/e/9/1e960acdcdd31f194b058e2abb368d5f9f76d47a.png\" style=\"vertical-align: -4px\" width=\"47\"/>,\nwhere <img alt=\"$C$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/3/3/c3355896da590fc491a10150a50416687626d7cc.png\" width=\"14\"/> is its circumference and <img alt=\"$A$\" class=\"latex\" height=\"13\" src=\"https://latex.artofproblemsolving.com/0/1/9/019e9892786e493964e145e7c5cf7b700314e53b.png\" width=\"13\"/> is its area. Which of the\nfollowing could be her graph?\n</p>",
+                "<center><a class=\"image\" href=\"/wiki/index.php/File:AMC8_2007_16.png\"><img alt=\"AMC8 2007 16.png\" height=\"326\" src=\"https://wiki-images.artofproblemsolving.com//f/ff/AMC8_2007_16.png\" width=\"586\"/></a></center>",
+                "<p><a href=\"/wiki/index.php/2007_AMC_8_Problems/Problem_16\" title=\"2007 AMC 8 Problems/Problem 16\">Solution</a>\n</p>"
             ],
             "answer": "A"
         },
@@ -2314,7 +2354,10 @@
             "id": "Problem_23",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_23\">Problem 23</span></h2>",
             "paragraphs": [
-                "<p>What is the area of the shaded part shown in the <img alt=\"$5$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/9/0/79069377f91364c2f87a64e5f9f562a091c8a6c1.png\" width=\"8\"/> x <img alt=\"$5$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/9/0/79069377f91364c2f87a64e5f9f562a091c8a6c1.png\" width=\"8\"/> grid?\n</p>"
+                "<p>What is the area of the shaded part shown in the <img alt=\"$5$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/9/0/79069377f91364c2f87a64e5f9f562a091c8a6c1.png\" width=\"8\"/> x <img alt=\"$5$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/9/0/79069377f91364c2f87a64e5f9f562a091c8a6c1.png\" width=\"8\"/> grid?\n</p>",
+                "<center><a class=\"image\" href=\"/wiki/index.php/File:AMC8_2007_23.png\"><img alt=\"AMC8 2007 23.png\" height=\"299\" src=\"https://wiki-images.artofproblemsolving.com//e/e5/AMC8_2007_23.png\" width=\"324\"/></a></center>",
+                "<p><img alt=\"$\\textbf{(A)}\\ 4 \\qquad\\textbf{(B)}\\ 6 \\qquad\\textbf{(C)}\\ 8 \\qquad\\textbf{(D)}\\ 10 \\qquad\\textbf{(E)}\\ 12$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/e/3/6/e36cd6ddb547ca24a221719fbb4453cdbcad1e95.png\" style=\"vertical-align: -5px\" width=\"369\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2007_AMC_8_Problems/Problem_23\" title=\"2007 AMC 8 Problems/Problem 23\">Solution</a>\n</p>"
             ],
             "answer": "B"
         },
@@ -3882,7 +3925,8 @@
                 "<p><img alt='[asy] pair A,B; size(8cm); A=(0,0); B=(480,0); draw((0,0)--(480,0),linetype(\"3 4\")); filldraw(circle((8,0),8),black); draw((0,0)..(100,-100)..(200,0)); draw((200,0)..(260,60)..(320,0)); draw((320,0)..(400,-80)..(480,0)); draw((100,0)--(150,-50sqrt(3)),Arrow(size=4)); draw((260,0)--(290,30sqrt(3)),Arrow(size=4)); draw((400,0)--(440,-40sqrt(3)),Arrow(size=4)); label(\"$A$\", A, SW); label(\"$B$\", B, SE); label(\"$R_1$\", (100,-40), W); label(\"$R_2$\", (260,40), SW); label(\"$R_3$\", (400,-40), W);[/asy]' class=\"latexcenter\" height=\"115\" src=\"https://latex.artofproblemsolving.com/3/a/c/3ac0f4254d038847d9ee52d724bc0df18b1b1df4.png\" width=\"378\"/>\n</p>",
                 "<p><img alt=\"$\\textbf{(A)}\\ 238\\pi\\qquad\\textbf{(B)}\\ 240\\pi\\qquad\\textbf{(C)}\\ 260\\pi\\qquad\\textbf{(D)}\\ 280\\pi\\qquad\\textbf{(E)}\\ 500\\pi$\" class=\"latex\" height=\"17\" src=\"https://latex.artofproblemsolving.com/d/5/e/d5efeb6b538f3285d0f1e65b2f319268d9fb43cf.png\" style=\"vertical-align: -4px\" width=\"494\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2013_AMC_8_Problems/Problem_25\" title=\"2013 AMC 8 Problems/Problem 25\">Solution</a>\n</p>",
-                "<p>The problems on this page are copyrighted by the <a class=\"external text\" href=\"http://www.maa.org\" rel=\"nofollow\">Mathematical Association of America</a>'s <a class=\"external text\" href=\"https://maa.org/student-programs/amc/\" rel=\"nofollow\">American Mathematics Competitions</a>. <a class=\"image\" href=\"/wiki/index.php/File:AMC_logo.png\"><img alt=\"AMC logo.png\" height=\"84\" src=\"https://wiki-images.artofproblemsolving.com//8/8b/AMC_logo.png\" style=\"vertical-align: middle\" width=\"97\"/></a>\n</p>"
+                "<p>The problems on this page are copyrighted by the <a class=\"external text\" href=\"http://www.maa.org\" rel=\"nofollow\">Mathematical Association of America</a>'s <a class=\"external text\" href=\"https://maa.org/student-programs/amc/\" rel=\"nofollow\">American Mathematics Competitions</a>. <a class=\"image\" href=\"/wiki/index.php/File:AMC_logo.png\"><img alt=\"AMC logo.png\" height=\"84\" src=\"https://wiki-images.artofproblemsolving.com//8/8b/AMC_logo.png\" style=\"vertical-align: middle\" width=\"97\"/></a>\n</p>",
+                "<div style=\"clear:both;\"></div>"
             ],
             "answer": "A"
         }
@@ -5919,7 +5963,10 @@
             "id": "Problem_22",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_22\">Problem 22</span></h2>",
             "paragraphs": [
-                "<p>A bus takes <img alt=\"$2$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/4/1/c/41c544263a265ff15498ee45f7392c5f86c6d151.png\" width=\"8\"/> minutes to drive from one stop to the next, and waits <img alt=\"$1$\" class=\"latex\" height=\"14\" src=\"https://latex.artofproblemsolving.com/d/c/e/dce34f4dfb2406144304ad0d6106c5382ddd1446.png\" style=\"vertical-align: -1px\" width=\"11\"/> minute at each stop to let passengers board. Zia takes <img alt=\"$5$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/9/0/79069377f91364c2f87a64e5f9f562a091c8a6c1.png\" width=\"8\"/> minutes to walk from one bus stop to the next. As Zia reaches a bus stop, if the bus is at the previous stop or has already left the previous stop, then she will wait for the bus. Otherwise she will start walking toward the next stop. Suppose the bus and Zia start at the same time toward the library, with the bus <img alt=\"$3$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/c/d/7cde695f2e4542fd01f860a89189f47a27143b66.png\" width=\"8\"/> stops behind. After how many minutes will Zia board the bus?\n</p>"
+                "<p>A bus takes <img alt=\"$2$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/4/1/c/41c544263a265ff15498ee45f7392c5f86c6d151.png\" width=\"8\"/> minutes to drive from one stop to the next, and waits <img alt=\"$1$\" class=\"latex\" height=\"14\" src=\"https://latex.artofproblemsolving.com/d/c/e/dce34f4dfb2406144304ad0d6106c5382ddd1446.png\" style=\"vertical-align: -1px\" width=\"11\"/> minute at each stop to let passengers board. Zia takes <img alt=\"$5$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/9/0/79069377f91364c2f87a64e5f9f562a091c8a6c1.png\" width=\"8\"/> minutes to walk from one bus stop to the next. As Zia reaches a bus stop, if the bus is at the previous stop or has already left the previous stop, then she will wait for the bus. Otherwise she will start walking toward the next stop. Suppose the bus and Zia start at the same time toward the library, with the bus <img alt=\"$3$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/c/d/7cde695f2e4542fd01f860a89189f47a27143b66.png\" width=\"8\"/> stops behind. After how many minutes will Zia board the bus?\n</p>",
+                "<div class=\"center\"><div class=\"floatnone\"><a class=\"image\" href=\"/wiki/index.php/File:2022_AMC_8_Problem_22_Diagram.png\"><img alt=\"2022 AMC 8 Problem 22 Diagram.png\" height=\"115\" src=\"https://wiki-images.artofproblemsolving.com//thumb/5/57/2022_AMC_8_Problem_22_Diagram.png/750px-2022_AMC_8_Problem_22_Diagram.png\" srcset=\"https://wiki-images.artofproblemsolving.com//thumb/5/57/2022_AMC_8_Problem_22_Diagram.png/1125px-2022_AMC_8_Problem_22_Diagram.png 1.5x, https://wiki-images.artofproblemsolving.com//5/57/2022_AMC_8_Problem_22_Diagram.png 2x\" width=\"750\"/></a></div></div>",
+                "<p><img alt=\"$\\textbf{(A) } 17 \\qquad \\textbf{(B) } 19 \\qquad \\textbf{(C) } 20 \\qquad \\textbf{(D) } 21 \\qquad \\textbf{(E) } 23$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/9/6/1/9619c6075ef397361475f26d377ec3aad49ca766.png\" style=\"vertical-align: -5px\" width=\"401\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2022_AMC_8_Problems/Problem_22\" title=\"2022 AMC 8 Problems/Problem 22\">Solution</a>\n</p>"
             ],
             "answer": "A"
         },
@@ -5948,7 +5995,10 @@
             "id": "Problem_25",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_25\">Problem 25</span></h2>",
             "paragraphs": [
-                "<p>A cricket randomly hops between <img alt=\"$4$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/7/c/c7cab1a05e1e0c1d51a6a219d96577a16b7abf9d.png\" style=\"vertical-align: 0px\" width=\"9\"/> leaves, on each turn hopping to one of the other <img alt=\"$3$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/c/d/7cde695f2e4542fd01f860a89189f47a27143b66.png\" width=\"8\"/> leaves with equal probability. After <img alt=\"$4$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/7/c/c7cab1a05e1e0c1d51a6a219d96577a16b7abf9d.png\" style=\"vertical-align: 0px\" width=\"9\"/> hops, what is the probability that the cricket has returned to the leaf where it started?\n</p>"
+                "<p>A cricket randomly hops between <img alt=\"$4$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/7/c/c7cab1a05e1e0c1d51a6a219d96577a16b7abf9d.png\" style=\"vertical-align: 0px\" width=\"9\"/> leaves, on each turn hopping to one of the other <img alt=\"$3$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/c/d/7cde695f2e4542fd01f860a89189f47a27143b66.png\" width=\"8\"/> leaves with equal probability. After <img alt=\"$4$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/7/c/c7cab1a05e1e0c1d51a6a219d96577a16b7abf9d.png\" style=\"vertical-align: 0px\" width=\"9\"/> hops, what is the probability that the cricket has returned to the leaf where it started?\n</p>",
+                "<div class=\"center\"><div class=\"floatnone\"><a class=\"image\" href=\"/wiki/index.php/File:2022_AMC_8_Problem_25_Picture.jpg\"><img alt=\"2022 AMC 8 Problem 25 Picture.jpg\" height=\"317\" src=\"https://wiki-images.artofproblemsolving.com//thumb/f/f0/2022_AMC_8_Problem_25_Picture.jpg/600px-2022_AMC_8_Problem_25_Picture.jpg\" srcset=\"https://wiki-images.artofproblemsolving.com//thumb/f/f0/2022_AMC_8_Problem_25_Picture.jpg/900px-2022_AMC_8_Problem_25_Picture.jpg 1.5x, https://wiki-images.artofproblemsolving.com//thumb/f/f0/2022_AMC_8_Problem_25_Picture.jpg/1200px-2022_AMC_8_Problem_25_Picture.jpg 2x\" width=\"600\"/></a></div></div>",
+                "<p><img alt=\"$\\textbf{(A) }\\frac{2}{9}\\qquad\\textbf{(B) }\\frac{19}{80}\\qquad\\textbf{(C) }\\frac{20}{81}\\qquad\\textbf{(D) }\\frac{1}{4}\\qquad\\textbf{(E) }\\frac{7}{27}$\" class=\"latex\" height=\"38\" src=\"https://latex.artofproblemsolving.com/9/e/9/9e98d700c58057d204da8fa1d899cdc44a91d7c1.png\" style=\"vertical-align: -13px\" width=\"402\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2022_AMC_8_Problems/Problem_25\" title=\"2022 AMC 8 Problems/Problem 25\">Solution</a>\n</p>"
             ],
             "answer": "E"
         }
@@ -6214,7 +6264,7 @@
             "id": "Problem_1",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_1\">Problem 1</span></h2>",
             "paragraphs": [
-                "<p>What is the ones digit of <img alt=\"\\[222,222-22,222-2,222-222-22-2?\\]\" class=\"latexcenter\" height=\"16\" src=\"https://latex.artofproblemsolving.com/e/2/f/e2fbba6a2cccb3d60b70444a8b272999a204281e.png\" width=\"333\"/>\n<img alt=\"$\\textbf{(A) } 0\\qquad\\textbf{(B) } 2\\qquad\\textbf{(C) } 4\\qquad\\textbf{(D) } 6\\qquad\\textbf{(E) } 8$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/9/6/e/96e20e979179cdbb8e9ab6f597ab0b24cbe0a187.png\" style=\"vertical-align: -5px\" width=\"355\"/>\n</p>",
+                "<p>What is the ones digit of <img alt=\"\\[222{,}222-22{,}222-2{,}222-222-22-2?\\]\" class=\"latexcenter\" height=\"16\" src=\"https://latex.artofproblemsolving.com/1/5/6/156c3662fe4c874a80e54887f76c302c13b9d14c.png\" width=\"324\"/>\n<img alt=\"$\\textbf{(A) } 0\\qquad\\textbf{(B) } 2\\qquad\\textbf{(C) } 4\\qquad\\textbf{(D) } 6\\qquad\\textbf{(E) } 8$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/9/6/e/96e20e979179cdbb8e9ab6f597ab0b24cbe0a187.png\" style=\"vertical-align: -5px\" width=\"355\"/>\n</p>",
                 "<p><a href=\"/wiki/index.php/2024_AMC_8_Problems/Problem_1\" title=\"2024 AMC 8 Problems/Problem 1\">Solution</a>\n</p>"
             ],
             "answer": "B"
@@ -6253,7 +6303,10 @@
             "id": "Problem_6",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_6\">Problem 6</span></h2>",
             "paragraphs": [
-                "<p>Sergei skated around an ice rink, gliding along different paths. The gray lines in the figures below show four of the paths labeled <img alt=\"$P$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/4/b/4/4b4cade9ca8a2c8311fafcf040bc5b15ca507f52.png\" width=\"14\"/>, <img alt=\"$Q$\" class=\"latex\" height=\"16\" src=\"https://latex.artofproblemsolving.com/9/8/6/9866e3a998d628ba0941eb4fea0666ac391d149a.png\" style=\"vertical-align: -3px\" width=\"13\"/>, <img alt=\"$R$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/e/f/f/eff43e84f8a3bcf7b6965f0a3248bc4d3a9d0cd4.png\" width=\"14\"/>, and <img alt=\"$S.$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/0/d/7/0d7e49ad93a99ed6dcafd1c6acba511a181ab6a4.png\" width=\"14\"/> What is the sorted order of the four paths from shortest to longest?\n</p>"
+                "<p>Sergei skated around an ice rink, gliding along different paths. The gray lines in the figures below show four of the paths labeled <img alt=\"$P$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/4/b/4/4b4cade9ca8a2c8311fafcf040bc5b15ca507f52.png\" width=\"14\"/>, <img alt=\"$Q$\" class=\"latex\" height=\"16\" src=\"https://latex.artofproblemsolving.com/9/8/6/9866e3a998d628ba0941eb4fea0666ac391d149a.png\" style=\"vertical-align: -3px\" width=\"13\"/>, <img alt=\"$R$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/e/f/f/eff43e84f8a3bcf7b6965f0a3248bc4d3a9d0cd4.png\" width=\"14\"/>, and <img alt=\"$S.$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/0/d/7/0d7e49ad93a99ed6dcafd1c6acba511a181ab6a4.png\" width=\"14\"/> What is the sorted order of the four paths from shortest to longest?\n</p>",
+                "<div class=\"center\"><div class=\"floatnone\"><a class=\"image\" href=\"/wiki/index.php/File:2024_AMC_8-Problem_6.png\"><img alt=\"2024 AMC 8-Problem 6.png\" height=\"215\" src=\"https://wiki-images.artofproblemsolving.com//thumb/2/21/2024_AMC_8-Problem_6.png/500px-2024_AMC_8-Problem_6.png\" srcset=\"https://wiki-images.artofproblemsolving.com//thumb/2/21/2024_AMC_8-Problem_6.png/750px-2024_AMC_8-Problem_6.png 1.5x, https://wiki-images.artofproblemsolving.com//2/21/2024_AMC_8-Problem_6.png 2x\" width=\"500\"/></a></div></div>",
+                "<p><img alt=\"$\\textbf{(A)}\\ P,Q,R,S \\qquad \\textbf{(B)}\\ P,R,S,Q \\qquad \\textbf{(C)}\\ Q,S,P,R \\qquad \\textbf{(D)}\\ R,P,S,Q \\qquad \\textbf{(E)}\\ R,S,P,Q$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/e/7/7/e774b032f4a8507bfd52f7f1daa79c13f8523475.png\" style=\"vertical-align: -5px\" width=\"686\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2024_AMC_8_Problems/Problem_6\" title=\"2024 AMC 8 Problems/Problem 6\">Solution</a>\n</p>"
             ],
             "answer": "B"
         },
@@ -6261,7 +6314,10 @@
             "id": "Problem_7",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_7\">Problem 7</span></h2>",
             "paragraphs": [
-                "<p>A <img alt=\"$3\\times 7$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/a/1/ca14459f462d31a2df61229e3856db524ab8ce49.png\" width=\"40\"/> rectangle is covered without overlap by 3 shapes of tiles: <img alt=\"$2\\times 2$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/9/0/7901356dd65ec4da1b694937cc4ffc663e90d800.png\" width=\"40\"/>, <img alt=\"$1\\times 4$\" class=\"latex\" height=\"15\" src=\"https://latex.artofproblemsolving.com/f/2/f/f2f082d8b340b03791ac30c367d7ebeaca7606b6.png\" style=\"vertical-align: -2px\" width=\"42\"/>, and <img alt=\"$1\\times 1$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/8/a/8/8a8df7312744a199daa5c8008af5b9b4798bfd64.png\" style=\"vertical-align: 0px\" width=\"39\"/>, shown below. What is the minimum possible number of <img alt=\"$1\\times 1$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/8/a/8/8a8df7312744a199daa5c8008af5b9b4798bfd64.png\" style=\"vertical-align: 0px\" width=\"39\"/> tiles used?\n</p>"
+                "<p>A <img alt=\"$3\\times 7$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/a/1/ca14459f462d31a2df61229e3856db524ab8ce49.png\" width=\"40\"/> rectangle is covered without overlap by 3 shapes of tiles: <img alt=\"$2\\times 2$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/9/0/7901356dd65ec4da1b694937cc4ffc663e90d800.png\" width=\"40\"/>, <img alt=\"$1\\times 4$\" class=\"latex\" height=\"15\" src=\"https://latex.artofproblemsolving.com/f/2/f/f2f082d8b340b03791ac30c367d7ebeaca7606b6.png\" style=\"vertical-align: -2px\" width=\"42\"/>, and <img alt=\"$1\\times 1$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/8/a/8/8a8df7312744a199daa5c8008af5b9b4798bfd64.png\" style=\"vertical-align: 0px\" width=\"39\"/>, shown below. What is the minimum possible number of <img alt=\"$1\\times 1$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/8/a/8/8a8df7312744a199daa5c8008af5b9b4798bfd64.png\" style=\"vertical-align: 0px\" width=\"39\"/> tiles used?\n</p>",
+                "<div class=\"center\"><div class=\"floatnone\"><a class=\"image\" href=\"/wiki/index.php/File:2024-AMC8-q7.png\" title=\"caption\"><img alt=\"caption\" height=\"111\" src=\"https://wiki-images.artofproblemsolving.com//e/ee/2024-AMC8-q7.png\" width=\"498\"/></a></div></div>",
+                "<p><img alt=\"$\\textbf{(A) } 1\\qquad\\textbf{(B) } 2\\qquad\\textbf{(C) } 3\\qquad\\textbf{(D) } 4\\qquad\\textbf{(E) } 5$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/7/0/7/70763aef24ac0855fb001b42d0b102accb5c7ab2.png\" style=\"vertical-align: -5px\" width=\"355\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2024_AMC_8_Problems/Problem_7\" title=\"2024 AMC 8 Problems/Problem 7\">Solution</a>\n</p>"
             ],
             "answer": "D"
         },
@@ -6310,7 +6366,13 @@
             "id": "Problem_12",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_12\">Problem 12</span></h2>",
             "paragraphs": [
-                "<p>Rohan keeps a total of <img alt=\"$90$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/b/f/c/bfcfee7bd8a5e15e5f6b7881c138de43651572a9.png\" width=\"17\"/> guppies in <img alt=\"$4$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/7/c/c7cab1a05e1e0c1d51a6a219d96577a16b7abf9d.png\" style=\"vertical-align: 0px\" width=\"9\"/> fish tanks.\n</p>"
+                "<p>Rohan keeps a total of <img alt=\"$90$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/b/f/c/bfcfee7bd8a5e15e5f6b7881c138de43651572a9.png\" width=\"17\"/> guppies in <img alt=\"$4$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/7/c/c7cab1a05e1e0c1d51a6a219d96577a16b7abf9d.png\" style=\"vertical-align: 0px\" width=\"9\"/> fish tanks.\n</p>",
+                "<ul><li>There is <img alt=\"$1$\" class=\"latex\" height=\"14\" src=\"https://latex.artofproblemsolving.com/d/c/e/dce34f4dfb2406144304ad0d6106c5382ddd1446.png\" style=\"vertical-align: -1px\" width=\"11\"/> more guppy in the <img alt=\"$2$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/4/1/c/41c544263a265ff15498ee45f7392c5f86c6d151.png\" width=\"8\"/>nd tank than the <img alt=\"$1$\" class=\"latex\" height=\"14\" src=\"https://latex.artofproblemsolving.com/d/c/e/dce34f4dfb2406144304ad0d6106c5382ddd1446.png\" style=\"vertical-align: -1px\" width=\"11\"/>st tank.</li></ul>",
+                "<ul><li>There are <img alt=\"$2$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/4/1/c/41c544263a265ff15498ee45f7392c5f86c6d151.png\" width=\"8\"/> more guppies in the 3rd tank than the <img alt=\"$2$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/4/1/c/41c544263a265ff15498ee45f7392c5f86c6d151.png\" width=\"8\"/>nd tank.</li></ul>",
+                "<ul><li>There are <img alt=\"$3$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/c/d/7cde695f2e4542fd01f860a89189f47a27143b66.png\" width=\"8\"/> more guppies in the 4th tank than the <img alt=\"$3$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/c/d/7cde695f2e4542fd01f860a89189f47a27143b66.png\" width=\"8\"/>rd tank.</li></ul>",
+                "<p>How many guppies are in the <img alt=\"$4$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/7/c/c7cab1a05e1e0c1d51a6a219d96577a16b7abf9d.png\" style=\"vertical-align: 0px\" width=\"9\"/>th tank?\n</p>",
+                "<p><img alt=\"$\\textbf{(A)}\\ 20 \\qquad \\textbf{(B)}\\ 21 \\qquad \\textbf{(C)}\\ 23 \\qquad \\textbf{(D)}\\ 24 \\qquad \\textbf{(E)}\\ 26$\" class=\"latex\" height=\"18\" src=\"https://latex.artofproblemsolving.com/2/7/1/271c150f73580ae1e90feb86a41d50231c0eb545.png\" style=\"vertical-align: -5px\" width=\"397\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2024_AMC_8_Problems/Problem_12\" title=\"2024 AMC 8 Problems/Problem 12\">Solution</a>\n</p>"
             ],
             "answer": "D"
         },
@@ -6383,7 +6445,10 @@
             "id": "Problem_19",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_19\">Problem 19</span></h2>",
             "paragraphs": [
-                "<p>Jordan owns 15 pairs of sneakers. Three fifths of the pairs are red and the rest are white. Two thirds of the pairs are high-top and the rest are low-top. The red high-top sneakers make up a fraction of the collection. What is the least possible value of this fraction?\n</p>"
+                "<p>Jordan owns 15 pairs of sneakers. Three fifths of the pairs are red and the rest are white. Two thirds of the pairs are high-top and the rest are low-top. The red high-top sneakers make up a fraction of the collection. What is the least possible value of this fraction?\n</p>",
+                "<div class=\"center\"><div class=\"floatnone\"><a class=\"image\" href=\"/wiki/index.php/File:2024-amc-8-q19.png\" title=\"caption\"><img alt=\"caption\" height=\"143\" src=\"https://wiki-images.artofproblemsolving.com//thumb/5/54/2024-amc-8-q19.png/500px-2024-amc-8-q19.png\" srcset=\"https://wiki-images.artofproblemsolving.com//thumb/5/54/2024-amc-8-q19.png/750px-2024-amc-8-q19.png 1.5x, https://wiki-images.artofproblemsolving.com//thumb/5/54/2024-amc-8-q19.png/1000px-2024-amc-8-q19.png 2x\" width=\"500\"/></a></div></div>",
+                "<p><br/>\n<img alt=\"$\\textbf{(A) } 0\\qquad\\textbf{(B) } \\dfrac{1}{5} \\qquad\\textbf{(C) } \\dfrac{4}{15} \\qquad\\textbf{(D) } \\dfrac{1}{3} \\qquad\\textbf{(E) } \\dfrac{2}{5}$\" class=\"latex\" height=\"38\" src=\"https://latex.artofproblemsolving.com/3/5/2/3520d12672cbafb0e0477d90f2f074d3d52430ce.png\" style=\"vertical-align: -13px\" width=\"380\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2024_AMC_8_Problems/Problem_19\" title=\"2024 AMC 8 Problems/Problem 19\">Solution</a>\n</p>"
             ],
             "answer": "A"
         },
@@ -6445,7 +6510,10 @@
             "id": "Problem_25",
             "h2": "<h2><span class=\"mw-headline\" id=\"Problem_25\">Problem 25</span></h2>",
             "paragraphs": [
-                "<p>A small airplane has <img alt=\"$4$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/7/c/c7cab1a05e1e0c1d51a6a219d96577a16b7abf9d.png\" style=\"vertical-align: 0px\" width=\"9\"/> rows of seats with <img alt=\"$3$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/c/d/7cde695f2e4542fd01f860a89189f47a27143b66.png\" width=\"8\"/> seats in each row. Eight passengers have boarded the plane and are distributed randomly among the seats. A married couple is next to board. What is the probability there will be <img alt=\"$2$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/4/1/c/41c544263a265ff15498ee45f7392c5f86c6d151.png\" width=\"8\"/> adjacent seats in the same row for the couple?\n</p>"
+                "<p>A small airplane has <img alt=\"$4$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/c/7/c/c7cab1a05e1e0c1d51a6a219d96577a16b7abf9d.png\" style=\"vertical-align: 0px\" width=\"9\"/> rows of seats with <img alt=\"$3$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/7/c/d/7cde695f2e4542fd01f860a89189f47a27143b66.png\" width=\"8\"/> seats in each row. Eight passengers have boarded the plane and are distributed randomly among the seats. A married couple is next to board. What is the probability there will be <img alt=\"$2$\" class=\"latex\" height=\"12\" src=\"https://latex.artofproblemsolving.com/4/1/c/41c544263a265ff15498ee45f7392c5f86c6d151.png\" width=\"8\"/> adjacent seats in the same row for the couple?\n</p>",
+                "<div class=\"center\"><div class=\"floatnone\"><a class=\"image\" href=\"/wiki/index.php/File:2024_AMC_8-Problem_25.png\"><img alt=\"2024 AMC 8-Problem 25.png\" height=\"250\" src=\"https://wiki-images.artofproblemsolving.com//thumb/5/5f/2024_AMC_8-Problem_25.png/150px-2024_AMC_8-Problem_25.png\" srcset=\"https://wiki-images.artofproblemsolving.com//thumb/5/5f/2024_AMC_8-Problem_25.png/225px-2024_AMC_8-Problem_25.png 1.5x, https://wiki-images.artofproblemsolving.com//thumb/5/5f/2024_AMC_8-Problem_25.png/300px-2024_AMC_8-Problem_25.png 2x\" width=\"150\"/></a></div></div>",
+                "<p><img alt=\"$\\textbf{(A)}\\ \\dfrac{8}{15} \\qquad \\textbf{(B)}\\ \\dfrac{32}{55} \\qquad \\textbf{(C)}\\ \\dfrac{20}{33} \\qquad \\textbf{(D)}\\ \\dfrac{34}{55} \\qquad \\textbf{(E)}\\ \\dfrac{8}{11}$\" class=\"latex\" height=\"38\" src=\"https://latex.artofproblemsolving.com/6/e/8/6e84c54d164452ba0b2076345283aa4732ad0751.png\" style=\"vertical-align: -13px\" width=\"416\"/>\n</p>",
+                "<p><a href=\"/wiki/index.php/2024_AMC_8_Problems/Problem_25\" title=\"2024 AMC 8 Problems/Problem 25\">Solution</a>\n</p>"
             ],
             "answer": "B"
         }

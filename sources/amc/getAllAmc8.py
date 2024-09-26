@@ -84,7 +84,7 @@ def extract_elements(html, year):
         # Find all the following <p> elements after the <h2>
         sibling = h2.find_next_sibling()
         while sibling:
-            if sibling.name == 'p':
+            if not sibling.name.startswith('h') : 
                 p_elements.append(str(sibling).replace('src="//latex', 'src="https://latex'))  # Save p elements as strings
             else: 
                 break
