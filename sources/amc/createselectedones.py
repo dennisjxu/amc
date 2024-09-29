@@ -56,6 +56,7 @@ def generate_questions_and_answers_for_multiple_years(data, input_data, output_d
 
             # Add the question to the HTML content
             h2 = selected_question['h2']
+            h2 = h2.replace("Problem", f"{year} Problem")
             paragraphs = ''.join(selected_question['paragraphs'])
             questions_html_content += f"{h2}\n{paragraphs}\n"
 
@@ -67,15 +68,16 @@ def generate_questions_and_answers_for_multiple_years(data, input_data, output_d
     # Get the current timestamp for unique file names
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
+    years = f"{input_data[0][0]}-{input_data[-1][0]}"
     # Save the compiled questions as a single HTML file
-    html_file_path = os.path.join(output_dir, f"AMC_8_Questions_Multiple_Years_{timestamp}.html")
+    html_file_path = os.path.join(output_dir, f"AMC_8_Questions_Multiple_Years_{years}.html")
     with open(html_file_path, 'w', encoding='utf-8') as f:
         f.write(questions_html_content.replace('src="//latex', 'src="https://latex'))
 
     print(f"Questions saved to {html_file_path}")
 
     # Save the compiled answer key to a separate text file
-    answer_key_file_path = os.path.join(output_dir, f"AMC_8_Answers_Multiple_Years_{timestamp}.txt")
+    answer_key_file_path = os.path.join(output_dir, f"AMC_8_Answers_Multiple_Years_{years}.txt")
     with open(answer_key_file_path, 'w', encoding='utf-8') as f:
         f.write('\n'.join(answer_key_content))
 
