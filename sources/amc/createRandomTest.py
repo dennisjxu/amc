@@ -50,7 +50,7 @@ def create_random_test(data, startyear, endyear, output_dir):
         # Add the selected question to the test
         h2 = selected_question['h2']
         paragraphs = ''.join(selected_question['paragraphs'])
-        test_html_content += f"{paragraphs}\n"
+        test_html_content += f"<p><h3>Problem {i + 1}</h3></p>{paragraphs}\n"
         test_html_content += f"<p><em>Selected from the year {selected_year}, Problem {i + 1}</em></p>\n<br>\n"
 
         # Add the answer to the answer key
