@@ -26,33 +26,41 @@ Year 2001, Problem 5: C
 Year 2001, Problem 6: B
 Year 2001, Problem 7: A
 Year 2001, Problem 8: E
+
 Year 2001, Problem 9: D
+
 Year 2001, Problem 10: A
+
 Year 2001, Problem 11: C
 Year 2001, Problem 13: D
 Year 2001, Problem 14: C
 Year 2001, Problem 16: E
 Year 2001, Problem 19: D
+
 Year 2001, Problem 22: E
 Year 2001, Problem 23: D
 Year 2001, Problem 24: B
 Year 2002, Problem 1: D
 Year 2002, Problem 6: A
+
 Year 2002, Problem 7: E
 Year 2002, Problem 11: C
 Year 2002, Problem 15: E
 Year 2002, Problem 16: E
 Year 2002, Problem 17: C
+
 Year 2002, Problem 20: D
 Year 2002, Problem 22: C
 Year 2002, Problem 23: B
 Year 2003, Problem 1: E
 Year 2003, Problem 6: B
+
 Year 2003, Problem 7: A
 Year 2003, Problem 8: A
 Year 2003, Problem 11: B
 Year 2003, Problem 12: E
 Year 2003, Problem 13: B
+
 Year 2003, Problem 14: D
 Year 2003, Problem 15: B
 Year 2003, Problem 17: E
@@ -63,6 +71,7 @@ Year 2003, Problem 22: C
 Year 2003, Problem 23: A
 Year 2003, Problem 24: B
 Year 2003, Problem 25: C
+
 Year 2004, Problem 1: B
 Year 2004, Problem 4: B
 Year 2004, Problem 13: E
