@@ -70,7 +70,7 @@ def main():
     data = load_json(json_file)
     if data:
         # Specify the year for which you want to generate the HTML file
-        year = 2018  # Change this to any year you want to process
+        year = 2020  # Change this to any year you want to process
         generate_html_for_year(data, year, output_dir)
 
 # Example usage
