@@ -83,7 +83,7 @@ def main():
     if data:
         # Example: Create a test from 1999 to 2024
         startyear = 1999
-        endyear = 2020
+        endyear = 2022
         create_random_test(data, startyear, endyear, output_dir)
 
 # Example usage
